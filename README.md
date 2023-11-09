@@ -30,11 +30,11 @@ axios.get('http://localhost:8000/news')
 ```
 
 ## Supported Sources
-* The Hindu: Link
-* The Hindustan Times: Link
-* Daily Climate: Link
-* CNN Climate: Link
-* BBC: Link
+* The Hindu: [Link](https://www.thehindu.com/)
+* The Hindustan Times: [Link](https://www.hindustantimes.com/)
+* Daily Climate: [Link](https://www.dailyclimate.org/)
+* CNN Climate: [Link](https://edition.cnn.com/world/cnn-climate)
+* BBC: [Link](https://www.bbc.com/news/topics/cmj34zmwm1zt)
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvement or want to add support for more news sources, feel free to open an issue or submit a pull request.
